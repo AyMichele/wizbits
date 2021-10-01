@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Press+Start+2P&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+
+
+.bits-font-link {
+  font-family: "Press Start 2P", cursive;
+  color: rgb(77, 77, 77);
+}
+
+.wiz-font-link {
+  font-family: "Anton", sans-serif;
+  color: rgb(77, 77, 77);
+}

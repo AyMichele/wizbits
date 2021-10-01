@@ -1,0 +1,96 @@
+.welcomeSection{
+  width: 100%;
+  height: 400px;
+  background: rgb(26, 26, 26);
+}
+.black{
+  background: black;
+}
+
+.logocon{
+  position: absolute;
+  left: 50%;
+  transform: translate(-52%);
+  margin-top: 100px;
+}
+
+.wiz-chars{
+  -webkit-text-stroke: 1px #fff2e6;
+  text-shadow: #fff2e6 0px 0px 5px;
+  font-size: 45px;
+  transition: 1s;
+  letter-spacing: 10px;
+  font-weight: 500;
+}
+
+.bits-chars{
+  -webkit-text-stroke: 1px #fff2e6;
+  font-size: 60px;
+  color: rgb(77, 77, 77);
+}
+
+
+.B{
+  margin-top: 5px;
+  margin-left: 5px;
+  color: rgb(77, 77, 77);
+}
+.i{
+  margin-top: 5px;
+  margin-left: -5px;
+  color: rgb(77, 77, 77);
+}
+.t{
+  margin-top: 5px;
+  margin-left: -12px;
+  color: rgb(77, 77, 77);
+}
+.s{
+  margin-top: 5px;
+  margin-left: -0px;
+  color: rgb(77, 77, 77);
+}
+.Bg{
+  -webkit-text-stroke-color: #ff0066;
+  text-shadow: #ff0066 0px 0px 10px;
+  transition: 1.3s;
+  font-weight: bolder;
+}
+.ig{
+  -webkit-text-stroke-color: #66ffcc;
+  text-shadow: #66ffcc 0px 0px 10px;
+  transition: 1.8s;
+  font-weight: bolder;
+}
+
+.tg{
+  -webkit-text-stroke-color: #ff9980;
+  text-shadow: #ff9980 0px 0px 10px;
+  transition: 2.3s;
+  font-weight: bolder;
+}
+
+.sg{
+  -webkit-text-stroke-color: #99bbff;
+  text-shadow: #99bbff 0px 0px 10px;
+  transition: 2.5s;
+  font-weight: bolder;
+}
+
+
+
+.welcome-bits {
+  width: 100%;
+  position: absolute;
+  top: 275px;
+
+}
+
+.welcome-bits > img{
+  width:inherit;
+  height: auto;
+  left: 50%;
+  transform: translate();
+  position: "absolute";
+  
+}
